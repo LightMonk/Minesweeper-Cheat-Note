@@ -1,0 +1,9 @@
+c:\users\lightmonk\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\LightMonk\Documents\Visual Studio 2015\Projects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\LightMonk\Documents\Visual Studio 2015\Projects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\LightMonk\Documents\Visual Studio 2015\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+C:\Users\LightMonk\Documents\Visual Studio 2015\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+C:\Users\LightMonk\Documents\Visual Studio 2015\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\LightMonk\Documents\Visual Studio 2015\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
+C:\Users\LightMonk\Documents\Visual Studio 2015\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\LightMonk\Documents\Visual Studio 2015\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
